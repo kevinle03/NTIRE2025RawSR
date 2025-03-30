@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Python: Train Script",
+        "type": "debugpy",
+        "request": "launch",
+        "program": "${workspaceFolder}/basicsr/train.py",
+        "console": "integratedTerminal",
+        "cwd": "${workspaceFolder}",
+        "justMyCode": false
+      }
+    ]
+  }
+  
+// {
+//   "version": "0.2.0",
+//   "configurations": [
+//     {
+//       "name": "Python: Test Script",
+//       "type": "debugpy",
+//       "request": "launch",
+//       "program": "${workspaceFolder}/basicsr/test.py",
+//       "console": "integratedTerminal",
+//       "cwd": "${workspaceFolder}",
+//       "justMyCode": false
+//     }
+//   ]
+// }
