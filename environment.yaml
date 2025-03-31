@@ -1,4 +1,4 @@
-name: MCMIR
+name: MCMRSR
 channels:
   - pytorch
   - nvidia
