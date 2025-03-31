@@ -7,5 +7,5 @@ Our code is built based on **MambaIRv2**. For more details, please refer to the 
 The conda environment can be reproduced with the following commands:
 ```
 conda env create -f environment.yaml
-conda activate MCMIR
+conda activate MCMRSR
 ```
